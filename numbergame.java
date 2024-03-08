@@ -5,7 +5,7 @@ public class GuessingGame
      
         public static void main(String[] args) 
        {
-        system.out.println("---Secret Cipher!---");   
+        System.out.println("---Secret Cipher!---");   
         System.out.println("Time for a guessing game! I'll secretly pick a number between 1 and 100, and let's see if you can figure it out.");
            Scanner sc1 = new Scanner(System.in); 
            boolean playAgain;
